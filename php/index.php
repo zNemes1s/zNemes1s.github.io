@@ -229,7 +229,7 @@
               <h6>Photoshop</h6>
               <span class="barra"><span class="photoshop"></span></span>
             </div>
-            <div class="col-lg-3"></div>
+            <div class="col-lg-3"></div>cu
              
              </div><br><br>
              <div class="row">
